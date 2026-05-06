@@ -22,12 +22,12 @@ Al finalizar la práctica, el estudiante será capaz de:
 
 | Carpeta | Descripción |
 |---|---|
-| `docs/` | Guía práctica para la clase |
-| `src/cpp/` | Implementación completa en C++ |
-| `src/java/` | Implementación completa en Java |
-| `exercises/` | Ejercicios para trabajo grupal |
+| `docs/` | Guía práctica para la clase | Capturas | Tarea 2.2 Recorrido de Arboles Binarios | 
+| `src/cpp/` | .vscode | build | main.cpp | Implementacion completa en C++ |
+| `src/java/` | .idea | out | main.java | implementacion completa en Java |
+| `exercises/` | Ejercicios |
 | `moodle/` | Banco de preguntas tipo Moodle |
-| `assets/` | Recursos de apoyo |
+| `assets/` | apuntesC++ | java | Recursos de apoyo 
 
 ## Reglas de recorrido
 
@@ -81,3 +81,6 @@ java Main
 | Aplicación al proyecto final | 2 |
 | Uso de GitHub e IA documentada | 1.5 |
 
+## Autor
+
+- Acurio Lopez Paul Medardo
